@@ -9,3 +9,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] List syntax is required
 - [x] The item is complete
 - [ ] The item is incomplete
+
+- [ ] One day at a time
+- [ ] One way to go
+- [ ] And am done
